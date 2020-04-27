@@ -1,0 +1,43 @@
+body {
+    max-width: 400px;
+    margin: 0 auto;
+    font-size: 1.1em;
+}
+.form-container {
+    background-color: beige;
+    border: black 2px dashed;
+    width: 400px;
+}
+form {
+    margin: 15px;
+}
+label, input, button {
+    margin: 7px 0;
+}
+label {
+    background-color: lightgrey;
+}
+button {
+    padding:5px;
+    border-radius: 5px;
+}
+.bgrndRed {background-color:rgb(227, 135, 23);}
+.textRed {color: rgb(227, 135, 23);}
+.textGreen {color: green;}
+
+#output {
+    margin-top: 10px;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.center {
+    text-align: center;
+}
+.top30 {
+    margin-top: 30px;
+}
+.grey-border {
+    border: 1px solid lightgrey;
+    padding: 6px;
+    
+}
